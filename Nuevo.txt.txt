@@ -1,0 +1,9 @@
+//saludos con c++
+
+public void saludos (string h){
+	pritln("saludos desde "+h);
+}
+
+main void(){
+	saludos("mundo");
+}
