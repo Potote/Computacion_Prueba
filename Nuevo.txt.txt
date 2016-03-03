@@ -4,6 +4,10 @@ public void saludos (string h){
 	pritln("saludos desde "+h);
 }
 
+public int otro_metodo (int entrada){
+     return entrada; 
+}
+
 main void(){
 	saludos("mundo");
 }
