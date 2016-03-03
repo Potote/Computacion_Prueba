@@ -4,8 +4,13 @@ public void saludos (string h){
 	pritln("saludos desde "+h);
 }
 
+
 public int otro_metodo (int entrada){
      return entrada; 
+	 }
+
+public void holi(){
+	println("HOLIIIIIIIIIIIII");
 }
 
 main void(){
