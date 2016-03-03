@@ -4,6 +4,10 @@ public void saludos (string h){
 	pritln("saludos desde "+h);
 }
 
+public void holi(){
+	println("HOLIIIIIIIIIIIII");
+}
+
 main void(){
 	saludos("mundo");
 }
